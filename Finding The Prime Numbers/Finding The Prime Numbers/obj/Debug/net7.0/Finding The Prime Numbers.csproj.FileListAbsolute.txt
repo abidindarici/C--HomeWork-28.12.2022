@@ -1,0 +1,15 @@
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/bin/Debug/net7.0/Finding The Prime Numbers
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/bin/Debug/net7.0/Finding The Prime Numbers.deps.json
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/bin/Debug/net7.0/Finding The Prime Numbers.runtimeconfig.json
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/bin/Debug/net7.0/Finding The Prime Numbers.dll
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/bin/Debug/net7.0/Finding The Prime Numbers.pdb
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/Finding The Prime Numbers.csproj.AssemblyReference.cache
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/Finding The Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/Finding The Prime Numbers.AssemblyInfoInputs.cache
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/Finding The Prime Numbers.AssemblyInfo.cs
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/Finding The Prime Numbers.csproj.CoreCompileInputs.cache
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/Finding The Prime Numbers.dll
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/refint/Finding The Prime Numbers.dll
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/Finding The Prime Numbers.pdb
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/Finding The Prime Numbers.genruntimeconfig.cache
+/Users/abidindarici/Projects/Finding The Prime Numbers/Finding The Prime Numbers/obj/Debug/net7.0/ref/Finding The Prime Numbers.dll

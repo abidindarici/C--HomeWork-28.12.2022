@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Write A Program Divide To İntegers That Do Not Use Divided By/1.0.0": {
+        "runtime": {
+          "Write A Program Divide To İntegers That Do Not Use Divided By.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Write A Program Divide To İntegers That Do Not Use Divided By/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
