@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "A Method That Calculates Factorial/1.0.0": {
+        "runtime": {
+          "A Method That Calculates Factorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A Method That Calculates Factorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

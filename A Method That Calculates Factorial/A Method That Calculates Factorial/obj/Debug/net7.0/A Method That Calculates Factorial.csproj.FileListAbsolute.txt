@@ -1,0 +1,15 @@
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/bin/Debug/net7.0/A Method That Calculates Factorial
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/bin/Debug/net7.0/A Method That Calculates Factorial.deps.json
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/bin/Debug/net7.0/A Method That Calculates Factorial.runtimeconfig.json
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/bin/Debug/net7.0/A Method That Calculates Factorial.dll
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/bin/Debug/net7.0/A Method That Calculates Factorial.pdb
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/A Method That Calculates Factorial.csproj.AssemblyReference.cache
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/A Method That Calculates Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/A Method That Calculates Factorial.AssemblyInfoInputs.cache
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/A Method That Calculates Factorial.AssemblyInfo.cs
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/A Method That Calculates Factorial.csproj.CoreCompileInputs.cache
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/A Method That Calculates Factorial.dll
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/refint/A Method That Calculates Factorial.dll
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/A Method That Calculates Factorial.pdb
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/A Method That Calculates Factorial.genruntimeconfig.cache
+/Users/abidindarici/Projects/A Method That Calculates Factorial/A Method That Calculates Factorial/obj/Debug/net7.0/ref/A Method That Calculates Factorial.dll

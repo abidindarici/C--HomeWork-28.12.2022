@@ -1,0 +1,15 @@
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/bin/Release/net7.0/Find The Biggest Number And Show İn Main
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/bin/Release/net7.0/Find The Biggest Number And Show İn Main.deps.json
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/bin/Release/net7.0/Find The Biggest Number And Show İn Main.runtimeconfig.json
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/bin/Release/net7.0/Find The Biggest Number And Show İn Main.dll
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/bin/Release/net7.0/Find The Biggest Number And Show İn Main.pdb
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/Find The Biggest Number And Show İn Main.csproj.AssemblyReference.cache
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/Find The Biggest Number And Show İn Main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/Find The Biggest Number And Show İn Main.AssemblyInfoInputs.cache
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/Find The Biggest Number And Show İn Main.AssemblyInfo.cs
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/Find The Biggest Number And Show İn Main.csproj.CoreCompileInputs.cache
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/Find The Biggest Number And Show İn Main.dll
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/refint/Find The Biggest Number And Show İn Main.dll
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/Find The Biggest Number And Show İn Main.pdb
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/Find The Biggest Number And Show İn Main.genruntimeconfig.cache
+/Users/abidindarici/Projects/Find The Biggest Number And Show İn Main/Find The Biggest Number And Show İn Main/obj/Release/net7.0/ref/Find The Biggest Number And Show İn Main.dll
